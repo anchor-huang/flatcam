@@ -2,3 +2,12 @@
 .idea/
 tests/tmp/
 build/
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.env/
+.venv/
+pyenv/
+*env/

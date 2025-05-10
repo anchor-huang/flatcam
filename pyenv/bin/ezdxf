@@ -1,4 +1,4 @@
-#!/Applications/flatcam/pyenv/bin/python3.11
+#!/Users/anchor/Documents/GitHub/flatcam/pyenv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
