@@ -1,3 +1,6 @@
+Still work in progress. Not suggest to use. 
+
+=====================================================================
 FlatCAM BETA (c) 2019 - by Marius Stanciu
 Based on FlatCAM: 
 2D Computer-Aided PCB Manufacturing by (c) 2014-2016 Juan Pablo Caram
