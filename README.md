@@ -1,4 +1,14 @@
-Still work in progress. Not suggest to use. 
+# ⚠️ WARNING: WORK IN PROGRESS ⚠️
+
+**This is a development version of FlatCAM. It is not recommended for production use.**
+
+Current status:
+- This is a beta version under active development
+- Features may be incomplete or unstable
+- Breaking changes may occur
+- Not recommended for critical PCB manufacturing tasks
+
+Please use the stable version from the official repository for production use.
 
 =====================================================================
 FlatCAM BETA (c) 2019 - by Marius Stanciu
