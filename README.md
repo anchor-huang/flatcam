@@ -1,6 +1,6 @@
 # ⚠️ WARNING: WORK IN PROGRESS ⚠️
 
-**This is a development version of FlatCAM. It is not recommended for production use.**
+**This is a development version of FlatCAM. It is not recommended for use.**
 
 Current status:
 - This is a beta version under active development
